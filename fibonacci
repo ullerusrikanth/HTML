@@ -1,0 +1,15 @@
+n=int (input('enter n value')
+ n1=0
+ n2=1
+ count=0
+if(n<=0):
+    print('enter a valid number')
+elif(n==1);
+  print('fibonacci seris of 1 is 0')
+elif:
+    whil(count < n):
+        print(n1)
+        next element =n1+n2
+        n1=n2
+        n2=next element
+        count = count+1
